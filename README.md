@@ -13,7 +13,6 @@ Link: https://pedroabreu04.github.io/Spotify-Bootstrap/
     <td>HTML</td>
     <td>CSS</td>
     <td>Bootstrap</td>
-    <td>Font Awesome</td>
   </tr>
 </table>
 
